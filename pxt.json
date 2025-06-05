@@ -1,5 +1,6 @@
 {
     "name": "八字循跡",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
